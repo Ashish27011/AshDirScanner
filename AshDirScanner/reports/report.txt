@@ -1,0 +1,27 @@
+
+Target :  + strhttps://juice-shop-staging.herokuapp.com/#
+
+STATUS   server               LENGTH     TYPE                                     PATH                                                        
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+200      Heroku               N/A        text/html; charset=UTF-8                 https://juice-shop-staging.herokuapp.com/#/admin            
+200      Heroku               N/A        text/html; charset=UTF-8                 https://juice-shop-staging.herokuapp.com/#/login            
+200      Heroku               N/A        text/html; charset=UTF-8                 https://juice-shop-staging.herokuapp.com/#/api              
+200      Heroku               N/A        text/html; charset=UTF-8                 https://juice-shop-staging.herokuapp.com/#/backup           
+200      Heroku               N/A        text/html; charset=UTF-8                 https://juice-shop-staging.herokuapp.com/#/dashboard        
+200      Heroku               N/A        text/html; charset=UTF-8                 https://juice-shop-staging.herokuapp.com/#/uploads          
+200      Heroku               N/A        text/html; charset=UTF-8                 https://juice-shop-staging.herokuapp.com/#/robots.txt       
+200      Heroku               N/A        text/html; charset=UTF-8                 https://juice-shop-staging.herokuapp.com/#/sitemap.xml      
+200      Heroku               N/A        text/html; charset=UTF-8                 https://juice-shop-staging.herokuapp.com/#/config           
+200      Heroku               N/A        text/html; charset=UTF-8                 https://juice-shop-staging.herokuapp.com/#/database         
+200      Heroku               N/A        text/html; charset=UTF-8                 https://juice-shop-staging.herokuapp.com/#/users            
+200      Heroku               N/A        text/html; charset=UTF-8                 https://juice-shop-staging.herokuapp.com/#/password         
+200      Heroku               N/A        text/html; charset=UTF-8                 https://juice-shop-staging.herokuapp.com/#/data             
+200      Heroku               N/A        text/html; charset=UTF-8                 https://juice-shop-staging.herokuapp.com/#/files            
+200      Heroku               N/A        text/html; charset=UTF-8                 https://juice-shop-staging.herokuapp.com/#/documents        
+200      Heroku               N/A        text/html; charset=UTF-8                 https://juice-shop-staging.herokuapp.com/#/images           
+200      Heroku               N/A        text/html; charset=UTF-8                 https://juice-shop-staging.herokuapp.com/#/download         
+200      Heroku               N/A        text/html; charset=UTF-8                 https://juice-shop-staging.herokuapp.com/#/help             
+200      Heroku               N/A        text/html; charset=UTF-8                 https://juice-shop-staging.herokuapp.com/#/support          
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Tested :  + str19
+Interesting :  + str19
